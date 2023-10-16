@@ -15,12 +15,13 @@
 .mole {
     background-image: url('Alia\ 22.png');
 }
-body {
+body, html {
     background-image: url("Alia\ 12.png");
     background-attachment: scroll;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    height: 100%;
 }
 h2 {
     text-align: center;
